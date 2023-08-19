@@ -21,6 +21,12 @@ Here's a walkthrough of implemented user stories:
 
 ## App Brainstorming (Step 4)
 
+- Instagram: I like the "like" animation, and the able to chat with friends.
+- TikTok: I like the ability to have a infinite scrolling with videos and being able to share the video easily.
+- EggMon: I like the art in the application and all the animations / GIFs.
+
+I would like to create a messaging application. The application will be geared towards couples and will give a prompt daily that two users will need to respond to in order to see each others' responds.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
